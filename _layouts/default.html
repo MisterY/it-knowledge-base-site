@@ -15,8 +15,14 @@
   <header>
     <h1>{{ page.title }}</h1>
   </header>
-  <section>
-    {{ content }}
+  <section class="row">
+    <nav id="leftnav" class="col-md-2">
+      {% capture my_include %}{% include left-nav.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+    </nav>
+    <section class="col">
+      {{ content }}
+    </section>
   </section>
   <footer>
     <!-- <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p> -->
