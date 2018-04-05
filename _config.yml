@@ -1,1 +1,15 @@
+name: IT Knowledge Base
+description: Collection of theory, tips, and software
+author: Alen Siljak
+repository: https://github.com/MisterY/it-knowledge-base-site
+
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+#theme: jekyll-theme-primer
 theme: jekyll-theme-dinky
+gfm_quirks: paragraph_end
