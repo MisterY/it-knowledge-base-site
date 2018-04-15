@@ -10,4 +10,4 @@ Here are some tips that need to be sorted:
 - Locale: 
     - in terminal, run `locale` to see the locale. `localectl` to see and modify. Use `sudo localectl set-locale LANG=en_IE.utf8`. [Ref](https://www.cyberciti.biz/faq/how-to-set-locales-i18n-on-a-linux-unix/)
     - Yast, Language, Detailed settings allows the same.
-
+- Open With: to set the default application, Alt+Enter in file browser.
