@@ -16,7 +16,7 @@ Here are some tips that need to be sorted:
 
 - Enable Compose key to easily enter special characters. See the [list](https://fsymbols.com/keyboard/linux/compose/).
 - Enable switching layouts with Alt+Shift.
-- add a Qwerty layout as the first, and Dvorak as the second. In vscode this will revert to the Qwerty keyboard when using Ctrl.
+- [Dvorak <> Qwerty](https://github.com/tbocek/dvorak) for Ctrl+key shortcuts in Qwerty.
 
 ### Folders
 
