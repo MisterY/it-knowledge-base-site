@@ -18,3 +18,6 @@ Here are some tips that need to be sorted:
 - Enable switching layouts with Alt+Shift.
 - add a Qwerty layout as the first, and Dvorak as the second. In vscode this will revert to the Qwerty keyboard when using Ctrl.
 
+### Folders
+
+- /home/<user>/.local/share/gnucash
