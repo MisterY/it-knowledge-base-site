@@ -2,6 +2,8 @@
 
 Everything here refers mainly to OpenSuse with Gnome although the settings are similar for other linux systems.
 
+- [Software](software)
+
 ## Tips
 
 Here are some tips that need to be sorted:
