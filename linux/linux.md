@@ -20,4 +20,5 @@ Here are some tips that need to be sorted:
 
 ### Folders
 
-- /home/<user>/.local/share/gnucash
+- /home/<user>/.local/share/gnucash = gnucash data directory
+- ~/.config/autostart  = autostart applications
