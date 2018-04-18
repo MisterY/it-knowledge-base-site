@@ -24,3 +24,11 @@ Here are some tips that need to be sorted:
 
 - /home/<user>/.local/share/gnucash = gnucash data directory
 - ~/.config/autostart  = autostart applications
+
+## Updates
+
+To prevent PackageKit automatically downloading all the update packages, run
+```
+gsettings set org.gnome.software download-updates false
+```
+Source: [Thread](https://forums.opensuse.org/showthread.php/530069-Tumbleweed-waiting-for-shared-lock-on-var-lib-rpm-Packages)
