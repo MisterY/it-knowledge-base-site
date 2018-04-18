@@ -31,4 +31,12 @@ To prevent PackageKit automatically downloading all the update packages, run
 ```
 gsettings set org.gnome.software download-updates false
 ```
-Source: [Thread](https://forums.opensuse.org/showthread.php/530069-Tumbleweed-waiting-for-shared-lock-on-var-lib-rpm-Packages)
+also, disable PackageKit service
+```
+systemctl stop packagekit
+systemctl disable packagekit
+```
+
+Resources: 
+- [Thread](https://forums.opensuse.org/showthread.php/530069-Tumbleweed-waiting-for-shared-lock-on-var-lib-rpm-Packages)
+- [Fedora](https://ask.fedoraproject.org/en/question/10929/how-do-i-stop-package-kit-from-constantly-searching-for-updates/)
