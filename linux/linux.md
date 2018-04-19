@@ -20,6 +20,11 @@ Here are some tips that need to be sorted:
 - Enable switching layouts with Alt+Shift.
 - [Dvorak <> Qwerty](https://github.com/tbocek/dvorak) for Ctrl+key shortcuts in Qwerty.
 
+#### Dvorak
+
+Use [dvorak](https://github.com/tbocek/dvorak) project.
+To run rules manually, execute `sudo udevadm control --reload`.
+
 ### Folders
 
 - /home/<user>/.local/share/gnucash = gnucash data directory
