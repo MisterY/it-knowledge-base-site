@@ -23,6 +23,7 @@ Here are some tips that need to be sorted:
 #### Dvorak
 
 Use [dvorak](https://github.com/tbocek/dvorak) project.
+Run it in Startup Applications as `./dvorak /dev/input/by-id/usb-Microsoft_Wired_Keyboard_400-event-kbd`.
 To run rules manually, execute `sudo udevadm control --reload`.
 
 ### Folders
