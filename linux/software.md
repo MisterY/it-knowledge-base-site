@@ -1,5 +1,9 @@
 # Software
 
+## Launchers
+
+Plank = macOS launcher at the bottom of the screen
+
 ## Sandbox
 
 Sandboxie on Windows alternatives for Linux:
