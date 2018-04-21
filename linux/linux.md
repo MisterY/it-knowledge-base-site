@@ -4,6 +4,7 @@ Everything here refers mainly to OpenSuse with Gnome although the settings are s
 
 - [Software](software)
 - [Software Maintenance](software-maintenance)
+- [Themes](themes)
 
 ## Tips
 
