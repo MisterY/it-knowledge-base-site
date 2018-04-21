@@ -2,8 +2,8 @@
 
 Everything here refers mainly to OpenSuse with Gnome although the settings are similar for other linux systems.
 
+- [Applications](applications)
 - [Software](software)
-- [Software Maintenance](software-maintenance)
 - [Themes](themes)
 
 ## Tips
