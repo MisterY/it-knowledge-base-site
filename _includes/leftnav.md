@@ -1,3 +1,4 @@
+- [Home](/)
 - [Linux](/linux/linux)
 - Platforms
     - Raspberry Pi
