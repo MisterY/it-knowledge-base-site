@@ -8,7 +8,8 @@ Install with
 
 `sudo apt-get install apache2 -y`
 
-Restart Apache: `sudo systemctl restart apache2`.
+Restart Apache: `sudo systemctl restart apache2` or `sudo service apache2 restart`.
+To reload settings: `sudo service apache2 reload`.
 
 References:
 
