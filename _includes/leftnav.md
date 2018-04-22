@@ -1,4 +1,6 @@
 - [Linux](/linux/linux)
+- Platforms
+    - Raspberry Pi
 - Software Concepts
     - Source Control
         - Git
