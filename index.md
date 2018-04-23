@@ -2,6 +2,12 @@
 
 This is my IT knowledge base web site. It is in the process of content migration from the [original site](https://sites.google.com/site/alensit/).
 
+## Table of Contents
+
+- Platforms
+    - [Raspberry Pi](/platforms/Raspberry-Pi/)
+- [Software Tools](/software_tools/)
+
 ## Site Search
 
 <script>
@@ -16,9 +22,3 @@ This is my IT knowledge base web site. It is in the process of content migration
   })();
 </script>
 <gcse:search></gcse:search>
-
-## Table of Contents
-
-- Platforms
-    - [Raspberry Pi](/platforms/Raspberry-Pi/)
-- [Software Tools](/software_tools/)
