@@ -2,7 +2,10 @@
 
 ## Offline 
 
+- [Modelio](www.modelio.org)
+- [UML Designer](http://www.umldesigner.org)
 - [Bouml](http://www.bouml.fr)
+- Papyrus
 
 ### Diagrams
 
