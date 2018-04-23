@@ -7,6 +7,10 @@
 - [Bouml](http://www.bouml.fr)
 - Papyrus
 
+Non-free
+
+- StarUML 2
+
 ### Diagrams
 
 - Pencil
