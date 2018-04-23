@@ -18,6 +18,7 @@ Non-free
 - Pencil
 - Dia
 - http://www.umlet.com/
+- Visual Paradigm, Community
 
 ## Online
 
