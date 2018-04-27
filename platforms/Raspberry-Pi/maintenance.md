@@ -8,7 +8,7 @@ Once the RPi has been set up, there are a few things that can be done to keep it
 
 System messages can be seen with `cat /var/log/messages` or `dmesg`.
 
-"systemctl status hdparm.service" and "journalctl -xe".
+`systemctl status hdparm.service` and `journalctl -xe`.
 
 ## Actions
 
