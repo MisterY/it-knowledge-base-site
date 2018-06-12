@@ -44,3 +44,11 @@ Links
 ### Renewing SSL Certificates
 
 `sudo certbot renew`
+
+### SSH Sessions
+
+To check for inactive SSH sessions and terminate them, run the following commands:
+
+- w <= lists logged in users
+- pstree -p <= lists active process tree with ids
+- kill <pid> <= kills processes for inactive sessions
