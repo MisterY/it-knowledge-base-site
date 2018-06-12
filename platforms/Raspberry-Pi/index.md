@@ -2,6 +2,7 @@
 
 - [Maintenance](maintenance)
 - Server
+    - [Database](server-db)
     - [Storage](server-storage)
     - [Web Server](server-web)
 
