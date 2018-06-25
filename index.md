@@ -7,6 +7,7 @@ This is my IT knowledge base web site. It is in the process of content migration
 - Platforms
     - [Raspberry Pi](/platforms/Raspberry-Pi/)
 - [Software Tools](/software_tools/)
+- [Technologies](/technologies/)
 
 ## Site Search
 
