@@ -17,6 +17,15 @@ Others
 
 - PyGUI, [link](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/)
 
+## wxWidgets
+
+Installation [link](https://wiki.wxpython.org/How%20to%20install%20wxPython).
+
+`pip install -U wxPython`
+
+wxWidgets tools [link](https://wiki.wxwidgets.org/Tools).
+
+
 ## Resources
 
 - [Python Graphic User Interface FAQ](https://docs.python.org/3/faq/gui.html)
