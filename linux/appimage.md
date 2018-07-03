@@ -8,4 +8,5 @@ Suse's Open Build Service allows creation of AppImages.
 
 Some relevant links below.
 
+- [AppImage Wiki](https://github.com/AppImage/AppImageKit/wiki)
 - [Using OBS](https://github.com/AppImage/AppImageKit/wiki/Using-Open-Build-Service)
