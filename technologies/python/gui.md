@@ -17,6 +17,10 @@ Others
 
 - PyGUI, [link](http://www.cosc.canterbury.ac.nz/greg.ewing/python_gui/)
 
+## Kivy
+
+Available for Android.
+
 ## QT
 
 PyQt and PySide (currently PySide 2).
@@ -36,3 +40,9 @@ wxWidgets tools [link](https://wiki.wxwidgets.org/Tools).
 
 - [Python Graphic User Interface FAQ](https://docs.python.org/3/faq/gui.html)
 - [7 Top Python GUI Frameworks for 2017](https://insights.dice.com/2017/08/07/7-top-python-gui-frameworks-for-2017-2/)
+- [So you want to write a desktop app in Python](http://takluyver.github.io/posts/so-you-want-to-write-a-desktop-app-in-python.html)
+
+### Android
+
+- [Android apps with Python, Flask and a WebView](https://blog.kivy.org/2016/05/android-apps-with-python-flask-and-a-webview/)
+- [How to make your android phone a webserver and run flask app](http://neilkarwasra.blogspot.com/2017/08/how-to-install-and-run-python-flask-web_15.html)
