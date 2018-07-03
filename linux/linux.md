@@ -3,6 +3,7 @@
 Everything here refers mainly to OpenSuse with Gnome although the settings are similar for other linux systems.
 
 - [Applications](applications)
+- [AppImage](appimage)
 - [Software](software)
 - [Themes](themes)
 
