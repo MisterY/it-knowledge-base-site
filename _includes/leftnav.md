@@ -7,3 +7,5 @@
         - Git
             - [GitFlow](/software_concepts/source_control/gitflow)
 - [Software Tools](software_tools/)
+- [SDLC](sdlc/)
+- [Technologies](/technologies/)

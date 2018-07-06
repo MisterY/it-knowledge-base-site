@@ -2,10 +2,7 @@
 
 This is my IT knowledge base web site. It is in the process of content migration from the [original site](https://sites.google.com/site/alensit/).
 
-## Table of Contents
-
-{% capture my_include %}{% include leftnav.md %}{% endcapture %}
-{{ my_include | markdownify }}
+Browse through the navigation bar at the left or use the search below.
 
 ## Site Search
 
