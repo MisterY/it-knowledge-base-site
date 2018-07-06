@@ -19,6 +19,27 @@ def iterate_walk(rootdir: str):
             file_path = os.path.join(subdir, file)
             print(file)
 
+def iterate_walk2():
+    """ another try """
+    for dirname, dirnames, filenames in os.walk('.'):
+        print(f"currently in {dirname}")
+        
+        # print path to all subdirectories first.
+        print("Subdirectories:")
+        for subdirname in dirnames:
+            print(os.path.join(dirname, subdirname))
+
+        # print path to all filenames.
+        print("Files:")
+        for filename in filenames:
+            print(os.path.join(dirname, filename))
+
+        # Advanced usage:
+        # editing the 'dirnames' list will stop os.walk() from recursing into there.
+        if '.git' in dirnames:
+            # don't go into any .git directories.
+            dirnames.remove('.git')    
+
 def main():
     #rootdir = __file__
     rootdir = Path(__file__).parent
@@ -26,6 +47,7 @@ def main():
 
     #iterate_glob()
     # iterate_walk(rootdir)
+    iterate_walk2()
 
     # todo: each folder is a node in the tree, with a link to "folder/"
     # todo: each file is shown in a parent folder if it is .md and does not start with underscore.
