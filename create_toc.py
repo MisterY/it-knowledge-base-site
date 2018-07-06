@@ -22,23 +22,34 @@ def iterate_walk(rootdir: str):
 def iterate_walk2():
     """ another try """
     for dirname, dirnames, filenames in os.walk('.'):
-        print(f"currently in {dirname}")
-        
-        # print path to all subdirectories first.
-        print("Subdirectories:")
-        for subdirname in dirnames:
-            print(os.path.join(dirname, subdirname))
-
-        # print path to all filenames.
-        print("Files:")
-        for filename in filenames:
-            print(os.path.join(dirname, filename))
-
         # Advanced usage:
         # editing the 'dirnames' list will stop os.walk() from recursing into there.
         if '.git' in dirnames:
             # don't go into any .git directories.
-            dirnames.remove('.git')    
+            dirnames.remove('.git')
+        if dirname.startswith("_"):
+            dirnames.remove(subdirname)
+            continue
+
+        print(f"currently in {dirname}:")
+        
+        # print path to all subdirectories first.
+        if dirnames:
+            print("Subdirectories:")
+        for subdirname in dirnames:
+            print(os.path.join(dirname, subdirname))
+
+        # print path to all filenames.
+        if filenames:
+            print("Files:")
+        for filename in filenames:
+            #print(os.path.join(dirname, filename))
+            if not filename.endswith(".md"):
+                continue
+            if filename == "index.md":
+                continue
+            print(filename)
+
 
 def main():
     #rootdir = __file__
