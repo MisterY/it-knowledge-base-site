@@ -1,8 +1,8 @@
 - [Home](/)
 - [Linux](/linux/linux)
-- Platforms
+- [Platforms](/platforms/)
     - Raspberry Pi
-- Software Concepts
+- [Software Concepts](software-concepts/)
     - Source Control
         - Git
             - [GitFlow](/software_concepts/source_control/gitflow)
