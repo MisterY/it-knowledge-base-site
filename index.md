@@ -4,9 +4,9 @@ This is my IT knowledge base web site. It is in the process of content migration
 
 ## Table of Contents
 
-- Platforms
-    - [Raspberry Pi](/platforms/Raspberry-Pi/)
+- [Platforms](platforms/)
 - [Software Tools](/software_tools/)
+- [SDLC](sdlc/)
 - [Technologies](/technologies/)
 
 ## Site Search
