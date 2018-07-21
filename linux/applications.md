@@ -4,6 +4,7 @@ List of applications.
 
 ## Audio
 
+- mpd + cantata or sonata
 - QMMP = WinAmp on Linux
 
 ## Launchers
