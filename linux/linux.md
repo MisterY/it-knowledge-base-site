@@ -6,6 +6,7 @@ Everything here refers mainly to OpenSuse with Gnome although the settings are s
 - [AppImage](appimage)
 - [Software](software)
 - [Themes](themes)
+- [Tips](tips)
 
 ## Tips
 
