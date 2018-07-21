@@ -1,6 +1,10 @@
 # Software
 
-List of applications
+List of applications.
+
+## Audio
+
+- QMMP = WinAmp on Linux
 
 ## Launchers
 

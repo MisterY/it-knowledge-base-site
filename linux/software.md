@@ -9,14 +9,15 @@ Run the app with the same name and set the defaults, i.e. file manager, browser,
 ## Updates
 
 To prevent PackageKit automatically downloading all the update packages, run
-```
-gsettings set org.gnome.software download-updates false
-```
+`gsettings set org.gnome.software download-updates false`
 also, disable PackageKit service
 ```
 systemctl stop packagekit
 systemctl disable packagekit
 ```
+or remove it completely.
+
+Install updates with `zypper up` or `zypper dup`.
 
 Resources: 
 - [Thread](https://forums.opensuse.org/showthread.php/530069-Tumbleweed-waiting-for-shared-lock-on-var-lib-rpm-Packages)
@@ -31,4 +32,3 @@ Resources:
 References:
 
 - [Zypper Cookbook](https://codeghar.wordpress.com/2014/07/23/zypper-cookbook-autoremove-packages-and-remove-orphaned-packages/)
-
