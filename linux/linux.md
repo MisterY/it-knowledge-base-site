@@ -30,7 +30,10 @@ Edit /etc/gdm/custom.conf and set Wayland on/off for the default session by enab
 ### Grub Boot
 
 Boot can be in MBR or UEFI mode.
+UEFI partition is vfat, 500MB, mounted at /boot/efi as recommended by openSuse installer.
 
 ### Recovery
 
 To mount a drive from rescue USB, see [here](https://doc.opensuse.org/documentation/leap/startup/html/book.opensuse.startup/cha.trouble.html#sec.trouble.data.recover.rescue).
+
+Also see [this](https://www.pks.mpg.de/~mueller/docs/suse10.2/html/opensuse-manual_en/manual/sec.trouble.boot.html) for boot troubleshooting.
