@@ -7,7 +7,6 @@ Everything here refers mainly to OpenSuse with Gnome although the settings are s
 - [Keyboard](keyboard)
 - [Software](software)
 - [Themes](themes)
-- [Tips](tips)
 
 ## Tips
 
@@ -24,4 +23,14 @@ Here are some tips that need to be sorted:
 - /home/<user>/.local/share/gnucash = gnucash data directory
 - ~/.config/autostart  = autostart applications
 
+### Gnome on Xorg or Wayland
 
+Edit /etc/gdm/custom.conf and set Wayland on/off for the default session by enabling/disabling the line.
+
+### Grub Boot
+
+Boot can be in MBR or UEFI mode.
+
+### Recovery
+
+To mount a drive from rescue USB, see [here](https://doc.opensuse.org/documentation/leap/startup/html/book.opensuse.startup/cha.trouble.html#sec.trouble.data.recover.rescue).
