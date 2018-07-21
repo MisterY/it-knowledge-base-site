@@ -1,5 +1,9 @@
 # Boot
 
+Boot loaders and boot managers.
+
+Grub, rEFInd.
+
 ## Grub Boot
 
 Boot can be in MBR or UEFI mode.
@@ -11,12 +15,14 @@ When changing grub2 options in /etc/default/grub, recreate grub config by runnin
 
 ### UEFI
 
-UEFI boot requires a /boot/efi partition.
-UEFI partition is vfat, 500MB, mounted at /boot/efi as recommended by openSuse installer.
+UEFI boot requires a /boot/efi partition, knows as EFI System Partition (ESP).
+ESP is vfat, 500MB, mounted at /boot/efi as recommended by openSuse installer.
 
 Configuration:
 - yast -> boot loader
 - efibootmgr
+
+Once the partition is created, install grub on it.
 
 ## Recovery
 
