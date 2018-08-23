@@ -29,6 +29,8 @@ Kivy offers a rendering library, which runs on multiple platforms. The apps can 
 
 Available for Android via [Python-for-Android](https://github.com/kivy/python-for-android) project. See [docs](https://python-for-android.readthedocs.io/en/latest/quickstart/). Offers a choice of using a native renderer or a web view for a web application.
 
+Use a [webview bootstrap](https://github.com/kivy/python-for-android/tree/master/pythonforandroid/bootstraps/webview).
+
 Resources:
 
 - [p4a article](https://www.techiediaries.com/python/how-to-develop-and-build-android-mobile-apps-with-python/)
