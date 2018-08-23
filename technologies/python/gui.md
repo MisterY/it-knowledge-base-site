@@ -4,12 +4,12 @@ The search for a multi-platform GUI library/framework.
 
 The GUI list at Python site keeps growing. See [here](https://wiki.python.org/moin/GuiProgramming).
 
+- Kivy
 - TkInter
 - wxWidgets
 	- wxpython, [link](http://www.wxpython.org/)
 - Qt
 - Gtk+
-- Kivy
 - FLTK
 - OpenGL
 
@@ -19,7 +19,10 @@ Others
 
 ## Kivy
 
-Available for Android. The apps can be packaged in APK or run with a Kivy Launcher.
+Available for Android via [Python-for-Android](https://github.com/kivy/python-for-android) project. See [docs](https://python-for-android.readthedocs.io/en/latest/quickstart/). Also offers an option to run a web view for a web application.
+
+The apps can be packaged in APK or run with a Kivy Launcher.
+
 
 ## QT
 
