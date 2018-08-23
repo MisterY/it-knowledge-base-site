@@ -31,12 +31,14 @@ Available for Android via [Python-for-Android](https://github.com/kivy/python-fo
 
 ## PyWebView 
 
-PyWebView is a native WebView component available in Python.
-Runs on Linux, Windows, and Mac.
+PyWebView is a native WebView component available in Python. Runs on Linux, Windows, and Mac.
+
+It can be used to encapsulate the web UI for desktop environments.
 
 Resources:
 
 - [GUI apps](https://www.techiediaries.com/python/how-to-build-cross-platform-desktop-gui-based-apps-with-python-and-web-technologies-and-frameworks/)
+- [Flask App](https://github.com/r0x0r/pywebview/tree/master/examples/flask_app) example
 
 ## QT
 
