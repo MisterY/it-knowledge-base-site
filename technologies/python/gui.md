@@ -1,10 +1,14 @@
 # GUI
 
-The search for a multi-platform GUI library/framework.
+The search for a multi-platform GUI library/framework. There currently seem to be two directions:
+
+- Device-specific native UI
+- Web UI
 
 The GUI list at Python site keeps growing. See [here](https://wiki.python.org/moin/GuiProgramming).
 
 - Kivy
+- PyWebView
 - TkInter
 - wxWidgets
 	- wxpython, [link](http://www.wxpython.org/)
@@ -19,11 +23,20 @@ Others
 
 ## Kivy
 
-The apps can be packaged in APK or run with a Kivy Launcher.
+Kivy offers a rendering library, which runs on multiple platforms. The apps can be packaged in APK or run with a Kivy Launcher.
 
 ### Android / WebView
 
-Available for Android via [Python-for-Android](https://github.com/kivy/python-for-android) project. See [docs](https://python-for-android.readthedocs.io/en/latest/quickstart/). Also offers an option to run a web view for a web application.
+Available for Android via [Python-for-Android](https://github.com/kivy/python-for-android) project. See [docs](https://python-for-android.readthedocs.io/en/latest/quickstart/). Offers a choice of using a native renderer or a web view for a web application.
+
+## PyWebView 
+
+PyWebView is a native WebView component available in Python.
+Runs on Linux, Windows, and Mac.
+
+Resources:
+
+- [GUI apps](https://www.techiediaries.com/python/how-to-build-cross-platform-desktop-gui-based-apps-with-python-and-web-technologies-and-frameworks/)
 
 ## QT
 
