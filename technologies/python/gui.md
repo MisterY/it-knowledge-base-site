@@ -19,7 +19,7 @@ Others
 
 ## Kivy
 
-Available for Android.
+Available for Android. The apps can be packaged in APK or run with a Kivy Launcher.
 
 ## QT
 
