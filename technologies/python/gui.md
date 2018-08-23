@@ -19,10 +19,11 @@ Others
 
 ## Kivy
 
-Available for Android via [Python-for-Android](https://github.com/kivy/python-for-android) project. See [docs](https://python-for-android.readthedocs.io/en/latest/quickstart/). Also offers an option to run a web view for a web application.
-
 The apps can be packaged in APK or run with a Kivy Launcher.
 
+### Android / WebView
+
+Available for Android via [Python-for-Android](https://github.com/kivy/python-for-android) project. See [docs](https://python-for-android.readthedocs.io/en/latest/quickstart/). Also offers an option to run a web view for a web application.
 
 ## QT
 
