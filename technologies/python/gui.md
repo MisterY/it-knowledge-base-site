@@ -5,6 +5,11 @@ The search for a multi-platform GUI library/framework. There currently seem to b
 - Device-specific native UI
 - Web UI
 
+There are some multi-platform technologies (almost cross-platform) that allow hosting Python:
+
+- Electron
+- [thrust](https://github.com/breach/thrust). For desktop OS.
+
 The GUI list at Python site keeps growing. See [here](https://wiki.python.org/moin/GuiProgramming).
 
 - Kivy
