@@ -9,7 +9,7 @@ Check SpecFlow and Selenium Quick Start ([link](http://alensiljak.blogspot.com/2
 
 Some useful automation tools to check out:
 
-- [Cypress](https://www.cypress.io/)
+- [Cypress](https://www.cypress.io/), tests in JavaScript
 
 ## Resources
 
