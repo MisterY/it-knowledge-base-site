@@ -1,5 +1,6 @@
 # Technologies
 
+- [JavaScript](javascript/)
 - [Python](python/)
 
 ## HTML / CSS / js
