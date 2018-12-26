@@ -1,5 +1,6 @@
 - [Home](/)
 - [Linux](/linux/linux)
+- [Media](/media/)
 - [Platforms](/platforms/)
     - Raspberry Pi
 - [Software Concepts](software-concepts/)
