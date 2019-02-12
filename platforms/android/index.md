@@ -8,4 +8,4 @@ There are a couple options available to run Android on PC:
 
 - emulators
 - running a VM directly
-  - 
+  - http://www.android-x86.org/
