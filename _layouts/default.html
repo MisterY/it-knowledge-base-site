@@ -23,18 +23,18 @@
           <h1>
       </div>
       <div class="col">
-        <script>
-          (function () {
-            var cx = '003783303775684249846:9sjaaf0wmxi';
-            var gcse = document.createElement('script');
-            gcse.type = 'text/javascript';
-            gcse.async = true;
-            gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(gcse, s);
-          })();
-        </script>
-        <gcse:search></gcse:search>
+          <script>
+              (function() {
+                var cx = '003783303775684249846:9sjaaf0wmxi';
+                var gcse = document.createElement('script');
+                gcse.type = 'text/javascript';
+                gcse.async = true;
+                gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(gcse, s);
+              })();
+            </script>
+            <gcse:searchbox></gcse:searchbox>
       </div>
     </div>
   </header>
@@ -44,6 +44,8 @@
       {{ my_include | markdownify }}
     </nav>
     <section class="col">
+        <gcse:searchresults></gcse:searchresults>
+        
       {{ content }}
     </section>
   </section>
