@@ -1,6 +1,6 @@
 # IT Knowledge Base
 
-This is my IT knowledge base web site. It is in the process of content migration from the [original site](https://sites.google.com/site/alensit/).
+This is my IT knowledge base web site. It is in the process of content migration from the [old site](https://sites.google.com/site/alensit/).
 
 Browse through the navigation bar at the left or use the search below.
 
