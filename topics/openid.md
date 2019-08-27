@@ -1,5 +1,9 @@
 # Open ID
 
+## OAuth 2.0
+
+- [OAuth 2.0 explained](https://connect2id.com/learn/oauth-2)
+
 ## Identity Server 3
 
 Useful resources:
